@@ -43,5 +43,3 @@ Content-Type: application/json
 Para mais detalhes sobre os endpoints e suas funcionalidades, consulte o código-fonte da aplicação.
 
 ---
-
-Você pode adicionar mais detalhes conforme necessário e incluir exemplos de uso dos endpoints, descrições de parâmetros, e assim por diante.
